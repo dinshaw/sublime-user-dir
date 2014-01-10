@@ -1,0 +1,13 @@
+[
+  { "keys": ["alt+super+shift+r"], "command": "reveal_in_side_bar"},
+  {
+    "keys": ["super+r"],
+    "command": "run_tests",
+    "args": {"scope": "file"}
+  },
+  {
+    "keys": ["super+shift+r"],
+    "command": "run_tests",
+    "args": {"scope": "line"}
+  },
+]
